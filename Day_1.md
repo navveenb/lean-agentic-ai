@@ -13,7 +13,7 @@ Most AI systems today are **reactive** — they respond to a single prompt or in
 
 ### What Makes AI Agentic?
 
-Agentic systems differ from traditional AI in three fundamental ways:
+Agentic systems differ from traditional AI in four fundamental ways:
 
 1. **Goal Orientation**  
    They work toward outcomes, not just respond to prompts.
@@ -22,7 +22,10 @@ Agentic systems differ from traditional AI in three fundamental ways:
    They remember previous steps and adapt behavior accordingly.
 
 3. **Tool-Use and Reasoning**  
-   They invoke APIs, search tools, databases, or other agents — often autonomously — to achieve their objectives.
+   They can invoke APIs, databases, search engines, or other models to achieve their goals.
+
+4. **Autonomy with Boundaries**  
+   They decide next steps within defined constraints — balancing flexibility with responsibility.
 
 ---
 
@@ -31,7 +34,7 @@ Agentic systems differ from traditional AI in three fundamental ways:
 | Reactive AI | Agentic AI |
 |-------------|------------|
 | Executes single tasks | Plans and sequences steps toward a goal |
-| Stateless and prompt-based | Maintains memory and state |
+| Stateless and prompt-based | Maintains memory and context |
 | Does not adapt across sessions | Learns and reflects over time |
 | Fixed logic | Context-aware and dynamic behavior |
 
@@ -46,26 +49,29 @@ Agentic systems differ from traditional AI in three fundamental ways:
 
 ### Why It Matters
 
-Agentic AI introduces power and complexity — but also new risks of inefficiency.
+Agentic AI introduces power and flexibility — but without thoughtful design, it can lead to inefficient, costly, or uncontrolled behavior.
 
-Without constraints, agents may:
-- Loop endlessly
-- Invoke heavy models repeatedly
-- Store unnecessary memory
-- Chain calls without awareness of cost or impact
+**Lean Agentic AI** focuses on building agentic systems that are not just intelligent — but also:
 
-Hence, the rise of **Lean Agentic AI**:  
-An intentional approach to design smart, sustainable, and efficient agents that deliver results without waste.
+- **Efficient** in how they use compute and memory
+- **Carbon-aware** in how they run and scale
+- **Responsible** in how they make decisions and interact with systems
+
+By being lean, agentic systems avoid:
+- Redundant processing
+- Unbounded tool chaining
+- Excessive memory storage
+- Unclear reasoning paths
 
 ---
 
 ### Key Principle
 
 > **Agentic AI = Autonomy + Memory + Tools + Goals**  
-But being agentic doesn’t mean being bloated.  
-**Be agentic, not excessive.**
+But being agentic doesn’t mean being excessive.  
+**Be agentic, efficient, and responsible.**
 
 ---
 
-📖 Dive deeper into architectural principles and patterns in the companion book:  
+📖 Dive deeper into architectural principles, orchestration strategies, and real-world patterns in  
 [Lean Agentic AI: Cost, Carbon, and Control](https://leanagenticai.com/)
