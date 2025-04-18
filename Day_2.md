@@ -8,6 +8,8 @@
 Not all agents are agentic.  
 In AI, the term “agent” is often used to describe a unit that performs a task — but **Agentic AI** involves a deeper level of autonomy, adaptability, and context awareness.
 
+**Lean Agentic AI** further emphasizes designing these systems with clear purpose, resource limits, and responsible behaviors.
+
 ---
 
 ### The Difference
@@ -26,40 +28,43 @@ In AI, the term “agent” is often used to describe a unit that performs a tas
 ### Mental Model
 
 A simple AI agent is like a **function** — it performs a fixed action on command.  
-An agentic AI is like a **collaborator** — it makes choices, adapts behavior, and learns from past interactions.
+An agentic AI is like a **collaborator** — it makes decisions, adapts behavior, and learns from past interactions.
 
 ---
 
 ### Developer Insight
 
 If you’ve used frameworks like LangChain, AutoGen, or CrewAI, you’ve likely built **agents**.  
-To design them as **agentic**, consider:
+To evolve them into **agentic systems**, you’ll need:
 
 - Memory (short- or long-term)
-- Reflection (revisiting outcomes)
-- Goal decomposition (breaking large tasks into steps)
-- Orchestration logic (deciding the next best action)
+- Reflection (learning from outcomes)
+- Goal decomposition (breaking tasks into steps)
+- Orchestration logic (deciding next best actions)
+- Boundaries (when to stop, defer, or fail gracefully)
 
 ---
 
 ### Why It Matters
 
-Agentic behavior unlocks intelligent automation — but without thoughtful design, it can lead to:
+Agentic behavior enables intelligent workflows — but it must be applied responsibly.
 
-- Redundant processing
-- Repeated mistakes from lack of memory
-- Overuse of models or tools
+Well-designed agentic systems:
+- Avoid unnecessary steps and model calls
+- Use memory selectively
+- Invoke tools with a clear reason
+- Operate within defined autonomy levels
 
-Designing for **agentic behavior** means calibrating autonomy, embedding memory selectively, and managing tool invocations responsibly.
+This keeps systems lean, cost-effective, interpretable — and aligned with ethical, responsible computing practices.
 
 ---
 
 ### Key Principle
 
 > **Agents do tasks. Agentic systems make decisions.**  
-Agentic design balances autonomy with control, memory with clarity, and intelligence with intent.
+Agentic design means balancing autonomy with control, memory with clarity, and intelligence with responsibility.
 
 ---
 
-📖 Explore the levels of autonomy and orchestration strategies in  
+📖 Learn more about layered autonomy and orchestration patterns in  
 [Lean Agentic AI: Cost, Carbon, and Control](https://leanagenticai.com/)
