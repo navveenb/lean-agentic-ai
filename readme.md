@@ -1,7 +1,7 @@
 # Lean Agentic AI  
 **Designing Agentic Systems That Minimize Cost, Carbon, and Complexity**
 
-Welcome to the **Lean Agentic AI** learning journey — a growing collection of short, daily learnings to help you design agentic systems that are not only intelligent and efficient, but also **responsible**, **ethical**, and **sustainable**.
+Welcome to the **Lean Agentic AI** learning journey — a growing collection of byte-size insights designed to help you build agentic systems that are not only intelligent and efficient, but also **responsible**, **ethical**, and **sustainable**.
 
 Lean Agentic AI balances:
 
