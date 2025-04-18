@@ -3,9 +3,9 @@
 
 ---
 
-Welcome to the **Lean Agentic AI** learning journey — a growing collection of byte-size insights designed to help you build agentic systems that are not only intelligent and efficient, but also **responsible**, **ethical**, and **sustainable**.
+Welcome to **Lean Agentic AI** — a growing collection of byte-size learnings to help you design and implement agentic systems that are intelligent, efficient, and architecturally lean.
 
-Lean Agentic AI balances:
+This series emphasizes:
 
 - 💰 **Cost-efficiency** — through smart architecture and minimal compute  
 - 🌱 **Carbon-awareness** — through energy-conscious design and deployment  
@@ -19,10 +19,11 @@ Lean Agentic AI balances:
 
 ## Overview
 
-This repository contains a growing series of byte-size learnings focused on building Lean Agentic AI systems.  
-The goal is to help you design and implement AI agents that are not only capable and scalable — but also cost-efficient, carbon-aware, and architecturally lean.
+This repository curates a living collection of byte-size insights, focused on designing and deploying **lean agentic systems** that minimize cost, carbon, and complexity.
 
-Each entry explores a focused concept, best practice, or design decision that supports lean thinking in the context of agentic AI workflows.
+It’s intended for AI builders, architects, and decision-makers looking to optimize how agentic systems operate — with a focus on performance, efficiency, and sustainability.
+
+You can browse topics in any order — each file stands on its own — or follow the two thematic sections to explore foundational concepts and design strategies.
 
 ---
 
