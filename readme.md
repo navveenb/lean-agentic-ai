@@ -54,9 +54,12 @@ Each entry explores a focused concept, best practice, or design decision that su
 
 ## Learn More
 
-📖 This series is based on the book  
-**[Lean Agentic AI: Cost, Carbon, and Control](https://leanagenticai.com/)**  
-Explore detailed frameworks, architecture diagrams, and implementation strategies.
+
+📖 This collection represents just a **small selection of ideas** from the full book:  
+**[Lean Agentic AI: Cost, Carbon, and Control](https://leanagenticai.com/)**
+
+Spanning over **350 pages**, the book dives deep into the architecture, trade-offs, and future of agentic systems — covering the hidden costs of workflows, design principles for lean execution, model and 12+ leading framework evaluations, carbon-aware deployment strategies, and the path toward systemic observability and green AI agents.  
+It’s written for builders, architects, and decision-makers who want to scale agentic AI with clarity, efficiency, and environmental responsibility.
 
 ---
 
