@@ -1,7 +1,14 @@
 # Lean Agentic AI: Daily Byte-Size Learnings  
-**Designing Efficient, Ethical, and Sustainable Agentic Systems**
+**Designing Efficient, Responsible, and Sustainable Agentic Systems**
 
-Welcome to the **Lean Agentic AI** learning journey — a growing collection of short, daily learnings to help you design cost-, carbon-, and complexity-efficient agentic AI systems.
+Welcome to the **Lean Agentic AI** learning journey — a growing collection of short, daily learnings to help you design agentic systems that are not only intelligent and efficient, but also **responsible**, **ethical**, and **sustainable**.
+
+Lean Agentic AI balances:
+
+- 💰 **Cost-efficiency** — through smart architecture and minimal compute
+- 🌱 **Carbon-awareness** — through energy-conscious design and deployment
+- 🧠 **Complexity reduction** — through clear workflows and modular agents
+- ⚖️ **Responsibility** — by embedding autonomy thresholds, ethical tool use, and safeguards in orchestration
 
 📖 For deeper strategies, implementation patterns, and frameworks, refer to the companion book:  
 [**Lean Agentic AI: Cost, Carbon, and Control**](https://leanagenticai.com/)
