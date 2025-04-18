@@ -59,5 +59,8 @@ You can browse topics in any order — each file stands on its own — or follow
 📖 This collection represents just a **small selection of ideas** from the full book:  
 **[Lean Agentic AI: Cost, Carbon, and Control](https://leanagenticai.com/)**
 
-Spanning over **350 pages**, the book dives deep into the architecture, trade-offs, and future of agentic systems — covering the hidden costs of workflows, design principles for lean execution, model and 12+ leading framework evaluations, carbon-aware deployment strategies, and the path toward systemic observability and green AI agents.  
-It’s written for builders, architects, and decision-makers who want to scale agentic AI with clarity, efficiency, and environmental responsibility.
+Spanning over **350 pages**, the book provides deep, practical insights into the architecture, trade-offs, and future of agentic systems.  
+It covers hidden workflow costs, lean design principles, carbon-aware deployment strategies, and evaluations of 12+ leading Agentic AI frameworks — all tailored for builders, architects, and decision-makers aiming to scale agentic AI with clarity, efficiency, and environmental responsibility. 
+
+It also introduces new and actionable concepts — including **Purpose-Bound Reasoning**, **Model Minimalism**, **Cost-centric Design**, **Memory Cost Index**, **Elastic Intelligence**, and **Lean Workflow Design** — all focused on making autonomy **efficient, not excessive**.
+
