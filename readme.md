@@ -57,5 +57,6 @@ Each entry explores a focused concept, best practice, or design decision that su
 📖 This series is based on the book  
 **[Lean Agentic AI: Cost, Carbon, and Control](https://leanagenticai.com/)**  
 Explore detailed frameworks, architecture diagrams, and implementation strategies.
+
 ---
 
