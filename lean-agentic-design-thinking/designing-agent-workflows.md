@@ -1,4 +1,4 @@
-# Day 8 – Designing Agent Workflows That Don’t Loop Endlessly  
+# Designing Agent Workflows That Don’t Loop Endlessly  
 *Avoiding Infinite Delegation and Wasteful Cycles*
 
 ---

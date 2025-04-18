@@ -1,4 +1,4 @@
-# Day 13 – Designing with Fallback Models (FrugalGPT-Style Routing)  
+# Designing with Fallback Models (FrugalGPT-Style Routing)  
 *Smaller Models First, Bigger Models Only If Needed*
 
 ---

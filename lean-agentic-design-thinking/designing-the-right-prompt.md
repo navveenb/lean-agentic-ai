@@ -1,4 +1,4 @@
-# Day 10 – Designing the Right Prompt  
+# Designing the Right Prompt  
 *Small, Specific, and Scaled with Purpose*
 
 ---

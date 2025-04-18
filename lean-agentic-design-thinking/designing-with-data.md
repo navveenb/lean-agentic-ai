@@ -1,4 +1,4 @@
-# Day 12 – Designing with Data as a First-Class Citizen  
+# Designing with Data as a First-Class Citizen  
 *The Right Input Shapes the Right Output*
 
 ---

@@ -1,4 +1,4 @@
-# Day 9 – Aligning Agent Memory Use with Real Needs  
+# Aligning Agent Memory Use with Real Needs  
 *Store What Matters, Forget What Doesn’t*
 
 ---

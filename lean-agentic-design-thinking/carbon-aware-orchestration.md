@@ -1,4 +1,4 @@
-# Day 15 – Carbon-Aware Decision-Making in Orchestration  
+# Carbon-Aware Decision-Making in Orchestration  
 *Not Just What You Do — But When, Where, and With What*
 
 ---

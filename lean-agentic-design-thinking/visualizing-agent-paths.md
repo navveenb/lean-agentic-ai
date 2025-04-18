@@ -1,4 +1,4 @@
-# Day 16 – Visualizing Agent Paths: Decision Maps Before Code  
+# Visualizing Agent Paths: Decision Maps Before Code  
 *Map the Logic Before You Build the Logic*
 
 ---

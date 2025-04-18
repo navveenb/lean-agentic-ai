@@ -1,4 +1,4 @@
-# Day 14 – Designing with Cost as a First-Class Citizen  
+# Designing with Cost as a First-Class Citizen  
 *Architect for Efficiency, Don’t Just Monitor It Later*
 
 ---

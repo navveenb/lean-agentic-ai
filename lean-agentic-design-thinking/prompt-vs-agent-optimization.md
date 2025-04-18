@@ -1,4 +1,4 @@
-# Day 11 – Prompt Optimization vs. Agent Optimization  
+# Prompt Optimization vs. Agent Optimization  
 *Choosing the Right Level to Tune*
 
 ---

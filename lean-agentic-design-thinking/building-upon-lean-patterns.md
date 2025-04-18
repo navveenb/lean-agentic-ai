@@ -1,11 +1,11 @@
-# Day 17 – Building Upon the Lean Patterns  
+# Building Upon the Lean Patterns  
 *A Living Layer of Design Patterns for Evolving Agent Behavior*
 
 ---
 
 ### Overview
 
-So far in Week 2, we've covered foundational **design thinking principles** for Lean Agentic Systems — from avoiding loops and optimizing memory to managing cost, carbon, and decision complexity.
+So far we've covered foundational **design thinking principles** for Lean Agentic Systems — from avoiding loops and optimizing memory to managing cost, carbon, and decision complexity.
 
 These were **base patterns** — foundational building blocks for designing lean workflows and orchestrations.
 
