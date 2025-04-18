@@ -1,4 +1,4 @@
-# Day 3 – Why Lean?  
+# Why Lean?  
 *Understanding Cost, Carbon, and Complexity in Agentic Systems*
 
 ---

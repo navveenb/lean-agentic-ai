@@ -1,4 +1,4 @@
-# Day 1 – What is Agentic AI?  
+# What is Agentic AI?  
 *From Reactive to Goal-Oriented Systems*
 
 ---

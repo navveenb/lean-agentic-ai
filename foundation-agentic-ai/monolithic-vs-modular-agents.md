@@ -1,4 +1,4 @@
-# Day 6 – Monolithic AI Calls vs. Modular Agents  
+# Monolithic AI Calls vs. Modular Agents  
 *Choosing the Right Approach for Cost, Carbon, and Control*
 
 ---

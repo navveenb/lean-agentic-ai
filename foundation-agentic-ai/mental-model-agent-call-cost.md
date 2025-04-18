@@ -1,4 +1,4 @@
-# Day 7 – Mental Model: Every Agent Call Costs Money, Energy, and Attention  
+# Mental Model: Every Agent Call Costs Money, Energy, and Attention  
 *Build With Awareness, Not Just Ambition*
 
 ---

@@ -1,4 +1,4 @@
-# Day 5 – Common Bloat in Agentic Systems  
+# Common Bloat in Agentic Systems  
 *Identifying Inefficiencies Before They Scale*
 
 ---

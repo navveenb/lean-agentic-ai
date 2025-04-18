@@ -1,4 +1,4 @@
-# Day 4 – Anatomy of a Lean Agent  
+# Anatomy of a Lean Agent  
 *Components, State, Memory, Models, and Tools*
 
 ---

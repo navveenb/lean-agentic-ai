@@ -1,4 +1,4 @@
-# Day 2 – Agent vs. Agentic  
+# Agent vs. Agentic  
 *Understanding Autonomy, Memory, and Self-Awareness*
 
 ---
