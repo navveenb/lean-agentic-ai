@@ -19,11 +19,11 @@ This series emphasizes:
 
 ## Overview
 
-This repository curates a living collection of byte-size insights, focused on designing and deploying **lean agentic systems** that minimize cost, carbon, and complexity.
+This repository offers a curated collection of byte-sized insights focused on designing and deploying **lean agentic systems** that minimize cost, carbon, and complexity.
 
-It’s intended for AI builders, architects, and decision-makers looking to optimize how agentic systems operate — with a focus on performance, efficiency, and sustainability.
+It’s designed for AI builders, architects, and decision-makers aiming to optimize the operation of agentic systems—with an emphasis on performance, efficiency, and sustainability.
 
-You can browse topics in any order — each file stands on its own — or follow the two thematic sections to explore foundational concepts and design strategies.
+Topics can be explored in any order—each file is self-contained—or you can follow the two thematic sections to dive into foundational concepts and design strategies.
 
 ---
 
