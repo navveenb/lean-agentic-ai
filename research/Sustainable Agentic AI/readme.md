@@ -1,4 +1,4 @@
-# Lean and Green Agentic AI
+# Sustainable Green Agentic AI White paper
 
 This white paper presents a practical framework for designing and building **Agentic AI systems** that are not only intelligent and autonomous but also efficient, cost-conscious, and environmentally sustainable.
 
