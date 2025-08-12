@@ -54,6 +54,10 @@ Topics can be explored in any order—each file is self-contained—or you can f
 
 ---
 
+## Whitepaper :
+
+- [Whitepaper on Green Agentic AI](/research/Sustainable%20Agentic%20AI/readme.md)
+
 ## Learn More
 
 📖 This collection represents just a **small selection of ideas** from the full book:  
