@@ -33,8 +33,6 @@
 
 - **Caching is mostly missing** — Haystack is the only framework with built-in component-level caching. LangGraph Platform (paid cloud, not open-source) has experimental "smart caching." Everyone else needs GPTCache, Redis, or custom code.
 
-- **CrewAI encourages agent proliferation** — the role-based model makes it easy to create many agents where fewer would suffice. Benchmarks show ~56% higher token overhead than LangGraph for equivalent tasks.
-
 ---
 
 ## This Space Is Evolving
