@@ -1,4 +1,4 @@
-# lean-agentic-ai-best-practice
+# Lean Agentic AI Reference implmentation
 
 **A plug-and-play framework for building lean agentic AI systems that minimize cost, carbon, and complexity.**
 
