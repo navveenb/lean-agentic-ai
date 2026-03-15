@@ -2,7 +2,7 @@
 
 **A plug-and-play framework for building lean agentic AI systems that minimize cost, carbon, and complexity.**
 
-> _"Every design decision has a price — in dollars, in emissions, and in complexity. Lean agentic AI is the discipline of paying only what the outcome is worth."_ — Inspired by [Lean Agentic AI](https://leanagenticai.com/) by Navveen Balani
+> _"Every design decision has a price — in dollars, in emissions, and in complexity. Lean agentic AI is the discipline of paying only what the outcome is worth."_ —  [Lean Agentic AI](https://leanagenticai.com/) by Navveen Balani
 
 ---
 
