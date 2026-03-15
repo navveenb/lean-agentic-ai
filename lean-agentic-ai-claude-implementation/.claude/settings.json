@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Grep",
+      "Glob",
+      "Write(reports/*)"
+    ],
+    "deny": [
+      "Bash(rm *)",
+      "Bash(curl *)"
+    ]
+  }
+}
