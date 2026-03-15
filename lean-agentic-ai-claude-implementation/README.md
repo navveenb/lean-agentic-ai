@@ -1,4 +1,4 @@
-# Lean Agentic AI Reference implmentation
+# Lean Agentic AI Reference implementation
 
 **A plug-and-play framework for building lean agentic AI systems that minimize cost, carbon, and complexity.**
 
